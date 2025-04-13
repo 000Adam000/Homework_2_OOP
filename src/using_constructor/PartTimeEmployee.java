@@ -5,7 +5,6 @@ package using_constructor;
 public class PartTimeEmployee extends Employee {
     
     
-    private double SalaryRate;
     private double WithOverTime;
     private double ExtraSalary;
 
